@@ -8,3 +8,4 @@ Should This antimatter tap to Crazy.
 
 ---CHANGELOG---
 v1.0.0: Make should this?
+v1.0.1: Endless of Fixed Minor Bugs
